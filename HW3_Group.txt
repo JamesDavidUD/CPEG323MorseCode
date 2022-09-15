@@ -1,0 +1,8 @@
+HW3 Group Members: 
+	James David
+	Ethan Conway
+
+Contributions:
+	James: Created pseudocode for the project, wrote main functions MC2A, BinaryLoop, shiftLeft, etc.
+
+	Ethan: Helped with writing main functions, and wrote the minor functions: addDash, addDot, etc. Helped with understanding MIPS syntax, bugfixed loops and shifting, and tested code.
